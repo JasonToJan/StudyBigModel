@@ -1,0 +1,7 @@
+# API Key 所在的演示脚本，勿提交
+**/*_demo.py
+
+# 密钥与本地环境
+.env
+*.key
+__pycache__/
